@@ -15,7 +15,9 @@
 
     <script>
         var family = new FamilyTree(document.getElementById("tree"), {
-                mouseScrool: FamilyTree.action.none,
+                showXScroll: FamilyTree.scroll.visible,
+                showYScroll: FamilyTree.scroll.visible,
+                mouseScrool: FamilyTree.action.zoom,
                 nodeTreeMenu: true,
                 nodeBinding: {
                     field_0: "name",
