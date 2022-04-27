@@ -1,5 +1,5 @@
 # Family Tree
-Esse projeto mostra uma árvore geneológica, porém não foi utilizado nenhum banco de dados para guardar dados que vão ser inseridos, editados ou excluídos durante a utilização da aplicação. Foi utilizado a biblioteca <a href="https://balkan.app/FamilyTreeJS" target="_blank">*BALKAN FamilyTreeJS*</a> para o desenvolvimento do projeto.
+Esse projeto mostra uma árvore geneológica, porém não foi utilizado nenhum banco de dados para guardar dados que vão ser inseridos, editados ou excluídos durante a utilização da aplicação. Foi utilizado a biblioteca <a href="https://balkan.app/FamilyTreeJS" target="_blank">*BALKAN FamilyTreeJS*</a> para o desenvolvimento do projeto. Para executar o projeto, basta abrir o arquivo index.html no navegador.
 
 ## Instruções
 - Para mover a tela, basta clicar com mouse esquerdo e arrastar para direção desejada.
