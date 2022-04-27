@@ -13,3 +13,4 @@ Esse projeto mostra uma árvore geneológica, porém não foi utilizado nenhum b
 - Editar as informações de cada nó.
 - Excluir um nó, porém não pode excluir nó pai, até que seja excluidos todos os nós filhos.
 - Exportar para PDF um nó.
+- Buscar um nó.
